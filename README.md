@@ -11,7 +11,7 @@ This project involves creating an OpenMP program to solve a system of linear equ
 
 ## Files
 
-  - netID.c: The source code file.
+  - `equations.c`: The source code file.
 
 ## How to Compile
 
