@@ -88,4 +88,4 @@ The program follows these steps:
 
 ## Performance and Scalability
 
-To evaluate the performance and scalability of the code, I measure the time for the parallel part `using omp_get_wtime`.
+To evaluate the performance and scalability of the code, I measure the time for the parallel part using `omp_get_wtime`.
