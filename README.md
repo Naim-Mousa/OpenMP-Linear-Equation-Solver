@@ -42,20 +42,28 @@ The input file should be formatted as follows:
 
 Example:
 
-`
+
 3
+
 0.01
+
 2 3 4
+
 5 1 3 6
+
 3 7 2 8
+
 3 6 9 6
-`
+
+
 This represents the following system of equations:
-`
+
 5X_1 + X_2 + 3X_3 = 6
+
 3X_1 + 7X_2 + 2X_3 = 8
+
 3X_1 + 6X_2 + 9X_3 = 6
-`
+
 ## Output
 
 The program outputs the following:
